@@ -1,6 +1,3 @@
-# melbourne-house-price-prediction
-
-````markdown
 # 🏡 Melbourne House Price Prediction using Regression
 
 This project applies regression techniques (Linear Regression, Ridge, and Lasso) to identify the most influential features on house prices in Melbourne, Australia. The analysis involves data preprocessing, feature selection, model training, and performance evaluation.
@@ -48,8 +45,6 @@ The objective of this project is to apply regression models to:
 
 ---
 
----
-
 ## ✅ Key Learnings
 
 * Effective handling of missing values.
@@ -58,14 +53,3 @@ The objective of this project is to apply regression models to:
 * Comparing model performance with train/test splits.
 
 ---
-
-
-### 📄 `requirements.txt`
-
-```txt
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-````
